@@ -1,0 +1,25 @@
+*{
+    margin: 10px;
+    padding: 0;
+   
+}
+.sect1 img {
+    height: 120px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+   
+}
+.container{
+    background-color: black;
+    height: 360px;
+    width: 300px;
+   justify-content: center;
+   margin-left: 300px;
+}
+.sect2 h3{
+    color: gray;
+
+}
+.sect2 p{
+    color: white;
+}
